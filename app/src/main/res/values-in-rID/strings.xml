@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catatan</string>
+    <string name="Notes">Catatan Saya</string>
+    <string name="tick">tick</string>
+    <string name="add">add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Fab">fab</string>
+    <string name="note_titile">Judul Catatan</string>
+    <string name="note_description">Deskripsi Catatan</string>
+    <string name="note_sub_title">Sub Judul Catatan</string>
+    <string name="datetime">Tanggal Dan Waktu</string>
+    <string name="delete_note">Hapus Catatan</string>
+    <string name="add_web_link">Tambahkan alamat surel</string>
+    <string name="add_image">Tambahkan Gambar</string>
+    <string name="pick_color">Pilih Warna</string>
+    <string name="todo">TODO</string>
+    <string name="web_url">Masukkan Alamat Surel</string>
+    <string name="http">http://</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Batal</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="titleblank">Judul Catatan Kosong</string>
+    <string name="subtitleblank">Sub Judul Catatan Kosong</string>
+    <string name="descblank">Deskripsi Catatan Kosong</string>
+    <string name="urlblank">Alamat Surel Kosong</string>
+    <string name="titleempty">Judul Catatan Harus Di isi</string>
+    <string name="subtitleempty">Sub Judul Catatan Harus Di isi</string>
+    <string name="descempty">Deskripsi Catatan Harus Di isi</string>
+    <string name="urlempty">Alamat Surel Harus Di isi</string>
+    <string name="urlnotvalid">Alamat Surel Tidak Sah</string>
+    <string name="delete">Hapus?</string>
+    <string name="deleteBtn">Hapus</string>
+    <string name="areyoursure">Apakah Anda Yakin Menghapus Catatan?</string>
+    <string name="deleteimg">Apakah Anda Yakin Menghapus Gambar?</string>
+    <string name="deleteNote">Sukses Menghapus Catatan</string>
+    <string name="search">Cari ...</string>
+    <string name="success">Berhasil</string>
+    <string name="success_add_note">Berhasil Menambahkan Catatan</string>
+    <string name="update">Memperbarui</string>
+    <string name="update_add_note">Berhasil Memperbarui Catatan</string>
+</resources>
